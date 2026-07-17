@@ -106,7 +106,7 @@ O problema foi resolvido ajustando a coluna da chave estrangeira para possuir ex
 
 ---
 
-#Objetivos do Projeto
+# Objetivos do Projeto
 
 - Praticar modelagem de banco de dados.
 - Compreender relacionamentos entre tabelas.
