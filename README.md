@@ -132,7 +132,7 @@ A proposta é consolidar os fundamentos da modelagem relacional antes do desenvo
 
 ---
 
-##Autor
+
 
 **Bruno Henrique Rodrigues**
 
